@@ -1,0 +1,5 @@
+county,state,format,url
+franklin,WA,pdf,http://jail.co.franklin.wa.us/InmateList/daily_in_custody_report.pdf
+adams,WA,html,http://www.co.adams.wa.us/jail_roster/jailroster.xml
+snohomish,WA,html,http://www.snoco.org/app/corrections/JailRegister/dailyBookingRegister.aspx
+benton,WA,pdf,https://onedrive.live.com/redir?resid=A093CAACE69E1C91!142&authkey=!ALEk8IIIiAj8QQ0&ithint=file%2cpdf
